@@ -1,5 +1,7 @@
 # PapaCrown
-PapaCrown is ESO Addon.
+PapaCrown is ESO Addon.  
+Version: 1.6.3  
+APIVersion: 100018  
 
 PapaCrown Fixed & Improved made by @triase to continue work of @Area51Visitor on PapaCrown untill he return.   
 

@@ -1,6 +1,6 @@
 ## Title: PapaCrown
 ## Author: @Area51Visitor, @triase
-## APIVersion: 100017
-## Version: 1.6.2
+## APIVersion: 100018
+## Version: 1.6.3
 
 PapaCrown.lua
