@@ -1,9 +1,11 @@
 # PapaCrown
 PapaCrown is ESO Addon.  
-Version: 1.6.3  
-APIVersion: 100018  
+Version: 1.6.4  
+APIVersion: 100019  
 
 PapaCrown Fixed & Improved made by @triase to continue work of @Area51Visitor on PapaCrown untill he return.   
+tiase's original advance emphasized crown Addon is CrownCustomizer.  
+http://www.esoui.com/downloads/info1548-CrownCustomizer.html  
 
 
 Increases the size of leaders crown so no one has excuse for being lost .  
